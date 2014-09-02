@@ -3,8 +3,6 @@ layout: post
 title: Chrome扩展 二维码大师
 ---
 
-{{ page.title }}
-================
 
 
 这个其实是在写完[水木社区老板模式](http://cobola.github.io/2014/08/07/chrome-plugin-smth-boosmode.html)后就写了。

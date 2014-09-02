@@ -3,8 +3,6 @@ layout: post
 title: use vboxmanage createvm with exist vdi
 ---
 
-{{ page.title }}
-================
 
 
 first ,use ftp or sftp copy the vdi file to the host.
