@@ -146,6 +146,9 @@ pre {
     padding: 12px;
     margin: 0 0 24px;
 	background-color: #f3f3f3;
+    word-break:break-all;
+    word-wrap:break-word;
+
 }
 p code {
     font-family: monospace;
