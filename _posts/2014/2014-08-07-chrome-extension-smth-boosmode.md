@@ -16,7 +16,7 @@ tags:
 
 哈哈
 
-插件的实现并不复杂，鉴于在天朝访问Google不是很方便，可以看 360 君给大家准备的教程，地址 <http://open.chrome.360.cn/extension_dev/overview.html>
+插件的实现并不复杂，鉴于在天朝访问Google不是很方便，可以看 360 君给大家准备的教程，[点击查看](http://open.chrome.360.cn/extension_dev/overview.html)
 
 实现思路如下：
 
@@ -27,9 +27,9 @@ tags:
 
 已经提交 360chrome插件商店。
 
-效果图可以看这里<http://smthboss.lofter.com/post/46729b_196b75a>
+效果图可以看这里 [lofter](http://smthboss.lofter.com/post/46729b_196b75a)
 
-下载使用地址： <http://kexue.qiniudn.com/chrome-plugin-smth-bossmode.crx>
+[点击下载](http://kexue.qiniudn.com/chrome-plugin-smth-bossmode.crx)
 
 
 收工。
