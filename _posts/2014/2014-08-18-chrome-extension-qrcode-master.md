@@ -2,7 +2,8 @@
 layout: post
 title: Chrome扩展 二维码大师
 tags:
-- chrome qrcode
+- chrome
+- qrcode
 ---
 
 
