@@ -5,7 +5,7 @@
 <!-- end of baidu JIA -->
 
 <!-- Duoshuo Comment BEGIN -->
-	<div class="ds-thread"></div>
+<div class="ds-thread" data-thread-key="{{page.url}}" data-title="{{page.title}}" data-url="{{page.url}}"></div>
 <script type="text/javascript">
 var duoshuoQuery = {short_name:"cobola"};
 	(function() {
