@@ -32,9 +32,9 @@ tags:
 
 同样地情况 也可以给[水木社区](http://www.newsmth.net)生成一个二维码图片
 
-拿起手机 扫描就可以了
+拿起手机 扫描就后就可以分享到朋友圈了。
 
-掏了5刀 这个插件已经上Google商店了 地址在这里 [点击在线安装](https://chrome.google.com/webstore/detail/qrcode-master/eandllggnghikbggfgifghhbhfahojfm?hl=zh-CN)
+掏了5刀 插件提交到了Google扩展商店 地址在这里 [点击在线安装](https://chrome.google.com/webstore/detail/qrcode-master/eandllggnghikbggfgifghhbhfahojfm?hl=zh-CN)
 
 
 
