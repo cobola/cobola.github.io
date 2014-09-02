@@ -1,6 +1,8 @@
 ---
 layout: post
-title: 水木社区老板模式
+title: Chrome扩展 水木社区老板模式
+tags:
+- chrome
 ---
 
 
