@@ -35,7 +35,7 @@ title: 浪潮云使用体验
 
 总的来说 还行吧。
 
-
+放个[官方介绍](http://www.cloud.inspur.com/index.php/cloud-server)
 
 
 
