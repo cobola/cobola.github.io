@@ -31,8 +31,9 @@ title: 浪潮云服务器环境安装Centos nginx+tomcat等
 修改nginx的配置
 
 	upstream hep2d_robstodo {
+    ip_hash;
     server 127.0.0.1:8080 weight=1;
-    server 127.0.0.1:9090 weight=2;
+    server 127.0.0.1:9090 weight=1;
     }
     
     
@@ -49,11 +50,6 @@ title: 浪潮云服务器环境安装Centos nginx+tomcat等
 
 设反向代理把请求转发给tomcat
 
-在tomcat的引用的``WEB-INF/web.xml`` 增加
-
-	    <display-name>Hep2d Web Application</display-name>
-
-		<distributable/>
 
 
 启动tomcat1 tomcat2 启动nginx `service nginx start`
