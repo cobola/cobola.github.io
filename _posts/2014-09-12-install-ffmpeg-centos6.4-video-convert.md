@@ -24,7 +24,7 @@ title: 在Centos6.4安装ffmpeg 并在网站中集成视频转换服务
 <https://chromium.googlesource.com/webm/libvpx.git>
 
 这个源码地址可能被封掉了 想办法自己下载下来
-一个大问题是 `没有faac`编码 和mac下通过brew安装得不太一致，没折腾
+一个大问题是，和mac下通过brew安装得不太一致。ffmpeg的参数太复杂了，后面那个转换参数不能识别。
 
 ### 2 利用yum安装
 
