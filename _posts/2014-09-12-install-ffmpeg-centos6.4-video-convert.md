@@ -6,30 +6,31 @@ title: 在Centos6.4安装ffmpeg 并在网站中集成视频转换服务
 
 ## 安装
 安装有三个办法 
+
 1. 自己编译安装
 2. 利用yum安装
 3. 下载已经编译好的 
 
-
-编译安装得办法可以参考这里 https://trac.ffmpeg.org/wiki/CompilationGuide/Centos
+### 1 自己编译安装
+编译安装得办法可以参考这里 <https://trac.ffmpeg.org/wiki/CompilationGuide/Centos>
 
 还有一个自动安装得脚本
 
-https://github.com/jnaqsh/ffmpeg_installer
+<https://github.com/jnaqsh/ffmpeg_installer>
 
 实验结果。。成功了 
 一个小问题是 
 
- https://chromium.googlesource.com/webm/libvpx.git
+<https://chromium.googlesource.com/webm/libvpx.git>
 
 这个源码地址可能被封掉了 想办法自己下载下来
 一个大问题是 `没有faac`编码 和mac下通过brew安装得不太一致，没折腾
 
-2 利用yum安装
+### 2 利用yum安装
 
 安装rpmforge的源后通过yum安装
 
-yum -Uvh http://apt.sw.be/redhat/el6/en/x86_64/rpmforge/RPMS/rpmforge-release-0.5.3-1.el6.rf.x86_64.rpm
+	yum -Uvh http://apt.sw.be/redhat/el6/en/x86_64/rpmforge/RPMS/rpmforge-release-0.5.3-1.el6.rf.x86_64.rpm
    
 yum install ffmpeg ffmpeg-devel
 
@@ -49,7 +50,7 @@ yum install ffmpeg ffmpeg-devel
 CENTOS6.4 2.6.32-358.el6.x86_64
 装出来 一个是 ffmpeg 0.10.11 一个是 ffmpeg version N-64310-gf054d1e
 
-3 直接下载编译好的版本
+### 3 直接下载编译好的版本
 
 下载地址 <http://johnvansickle.com/ffmpeg/>
 
